@@ -1,0 +1,1 @@
+This project implements a deep learning image classification system to distinguish between cats and dogs using the AlexNet convolutional neural network architecture. The model is trained on the TensorFlow "cats and dogs" dataset with  89% of accuracy
